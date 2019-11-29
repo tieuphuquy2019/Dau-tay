@@ -1,0 +1,77 @@
+{
+  "name": "afcreactjs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@gumgum/react-script-tag": "0.0.3",
+    "@material-ui/core": "^4.6.0",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.6.0",
+    "@stardust-ui/docs-components": "^0.40.0",
+    "@trendmicro/react-sidenav": "^0.4.5",
+    "auth0-js": "^9.11.3",
+    "axios": "^0.19.0",
+    "axios-token-interceptor": "^0.2.0",
+    "babel-plugin-js-to-jsx": "^2.1.0",
+    "bootstrap": "^4.3.1",
+    "font-awesome-icons": "^1.6.0",
+    "formik": "^2.0.6",
+    "glamor": "^2.20.40",
+    "glamorous": "^5.0.0",
+    "jodit-react": "^1.0.26",
+    "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
+    "material-ui": "^0.20.2",
+    "mdbootstrap": "^4.8.11",
+    "mdbreact": "^4.22.0",
+    "prettier": "^1.19.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-admin": "^3.0.1",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-bootstrap-time-picker": "^2.0.1",
+    "react-burger-menu": "^2.6.12",
+    "react-datepicker": "^2.9.6",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "react-highlight": "^0.12.0",
+    "react-picky-date-time": "^1.3.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-history": "^0.2.3",
+    "react-safe": "^1.3.0",
+    "react-scripts": "^3.2.0",
+    "react-typekit": "^1.1.4",
+    "react-validation": "^3.0.7",
+    "semantic-ui-react": "^0.88.1",
+    "serialize-javascript": "^2.1.0",
+    "styled-components": "^4.4.1",
+    "validator": "^12.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1"
+  }
+}
