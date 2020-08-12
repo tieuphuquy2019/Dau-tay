@@ -45,7 +45,7 @@
     "react-typekit": "^1.1.4",
     "react-validation": "^3.0.7",
     "semantic-ui-react": "^0.88.1",
-    "serialize-javascript": "^2.1.0",
+    "serialize-javascript": "^4.0.0",
     "styled-components": "^4.4.1",
     "validator": "^12.1.0"
   },
